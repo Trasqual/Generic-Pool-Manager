@@ -7,3 +7,5 @@ To use it all you need to do is the call the ObjectPoolManager's GetObject<T>() 
 After using the object you got from the pool, you can use ObjectPoolManager's ReleaseObject(objectToRelease) method with will find the pool of the same type and Release() the object.
 
 I created an example where if you click with left mouse button, you get a cube item and if you click with the right mouse button you get a sphere item. To release you can click 1 and 2 on your keyboard accordingly.
+
+ ![2022-12-02 07-46-16](https://user-images.githubusercontent.com/59961702/205217744-35b6854d-294e-474a-bebb-0d9aec8828bc.gif)
